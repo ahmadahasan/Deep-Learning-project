@@ -1,2 +1,2 @@
-# Deep-Learning-project
+# Deep-Learning-Image-Classification
 I recently worked on a deep learning project focused on multi-class image classification for intelligent environments  
